@@ -21,3 +21,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Raw data - IMPIC
+data/raw/

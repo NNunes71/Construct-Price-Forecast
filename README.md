@@ -45,9 +45,24 @@ O projeto seguirá a metodologia CRISP-DM:
 4. Modelling
 5. Evaluation
 
-### Fontes de dados
+## Fontes de dados
 
-- IMPIC — Índices de custos de materiais, equipamentos e mão de obra
+### IMPIC
+
+Os índices de custos de materiais de construção publicados pelo IMPIC
+constituem a principal fonte de dados do projeto.
+
+Serão utilizados os históricos disponíveis para construir séries temporais
+dos índices dos diferentes materiais e desenvolver modelos de previsão.
+
+### Preços de referência
+
+Para transformar os índices previstos em valores monetários, será utilizado
+um preço de referência atual para cada material.
+
+A relação entre o preço e o índice permitirá estimar preços para períodos
+futuros e, quando aplicável, reconstruir valores equivalentes para períodos
+históricos.
 
 
 ### Tecnologias
@@ -61,3 +76,13 @@ O projeto seguirá a metodologia CRISP-DM:
 - Jupyter Notebook
 - Git / GitHub
 
+### Influenciadores de custos
+
+O projeto irá também recolher, a partir da informação disponibilizada pelo
+IMPIC, a identificação e descrição dos fatores/influenciadores associados
+aos índices de materiais.
+
+Nesta fase não serão modeladas as séries temporais desses influenciadores.
+A sua utilização como variáveis explicativas dos modelos de previsão será
+considerada como uma possível evolução futura do projeto e da plataforma
+Anturio Construct.

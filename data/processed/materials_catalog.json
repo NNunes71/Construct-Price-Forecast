@@ -1,0 +1,234 @@
+[
+  {
+    "codigo": "M01",
+    "descricao": "Britas"
+  },
+  {
+    "codigo": "M02",
+    "descricao": "Areias"
+  },
+  {
+    "codigo": "M03",
+    "descricao": "Inertes"
+  },
+  {
+    "codigo": "M04",
+    "descricao": "Ladrilhos de calcário e granito"
+  },
+  {
+    "codigo": "M05",
+    "descricao": "Cantarias de calcário e granito"
+  },
+  {
+    "codigo": "M06",
+    "descricao": "Ladr. e cant. de calcário e granito"
+  },
+  {
+    "codigo": "M07",
+    "descricao": "Telhas cerâmicas"
+  },
+  {
+    "codigo": "M08",
+    "descricao": "Tijolos cerâmicos"
+  },
+  {
+    "codigo": "M09",
+    "descricao": "Produtos Cerâmicos Vermelhos"
+  },
+  {
+    "codigo": "M10",
+    "descricao": "Azulejos e Mosaicos"
+  },
+  {
+    "codigo": "M12",
+    "descricao": "Aço em Varão e Perfilados"
+  },
+  {
+    "codigo": "M13",
+    "descricao": "Chapa de Aço Macio"
+  },
+  {
+    "codigo": "M14",
+    "descricao": "Rede electrossoldada"
+  },
+  {
+    "codigo": "M15",
+    "descricao": "Chapa de aço galvanizada"
+  },
+  {
+    "codigo": "M16",
+    "descricao": "Fio de Cobre Nu"
+  },
+  {
+    "codigo": "M17",
+    "descricao": "Fio de cobre revestido"
+  },
+  {
+    "codigo": "M18",
+    "descricao": "Betumes a Granel"
+  },
+  {
+    "codigo": "M19",
+    "descricao": "Betumes em Tambores"
+  },
+  {
+    "codigo": "M20",
+    "descricao": "Cimento em saco"
+  },
+  {
+    "codigo": "M21",
+    "descricao": "Explosivos"
+  },
+  {
+    "codigo": "M22",
+    "descricao": "Gasóleo"
+  },
+  {
+    "codigo": "M23",
+    "descricao": "Vidro"
+  },
+  {
+    "codigo": "M24",
+    "descricao": "Madeiras de Pinho"
+  },
+  {
+    "codigo": "M25",
+    "descricao": "Madeiras Especiais ou Exóticas"
+  },
+  {
+    "codigo": "M26",
+    "descricao": "Derivados de madeira"
+  },
+  {
+    "codigo": "M27",
+    "descricao": "Aglomerado negro de cortiça"
+  },
+  {
+    "codigo": "M28",
+    "descricao": "Ladrilho de cortiça"
+  },
+  {
+    "codigo": "M29",
+    "descricao": "Tintas para construção civil"
+  },
+  {
+    "codigo": "M30",
+    "descricao": "Tintas para estradas"
+  },
+  {
+    "codigo": "M31",
+    "descricao": "Membrana betuminosa"
+  },
+  {
+    "codigo": "M32",
+    "descricao": "Tubo de PVC"
+  },
+  {
+    "codigo": "M33",
+    "descricao": "Tubo de PVC p/ instalações elétricas"
+  },
+  {
+    "codigo": "M34",
+    "descricao": "Blocos de betão normal"
+  },
+  {
+    "codigo": "M35",
+    "descricao": "Manilhas de betão"
+  },
+  {
+    "codigo": "M36",
+    "descricao": "Tubagem de fibrocimento"
+  },
+  {
+    "codigo": "M37",
+    "descricao": "Chapa de fibrocimento (1)"
+  },
+  {
+    "codigo": "M39",
+    "descricao": "Caixilharias em alumínio anodizado"
+  },
+  {
+    "codigo": "M40",
+    "descricao": "Caixilharias em alumínio termolacado"
+  },
+  {
+    "codigo": "M41",
+    "descricao": "Pavimentos aligeirados de vigotas pré-esforçadas e blocos cerâmicos"
+  },
+  {
+    "codigo": "M42",
+    "descricao": "Tubagem de aço e aparelhos para canalizações"
+  },
+  {
+    "codigo": "M43",
+    "descricao": "Aço para betão armado"
+  },
+  {
+    "codigo": "M44",
+    "descricao": "Aço para betão pré-esforçado"
+  },
+  {
+    "codigo": "M45",
+    "descricao": "Perfilados pesados e ligeiros"
+  },
+  {
+    "codigo": "M46",
+    "descricao": "Produtos para instalações elétricas"
+  },
+  {
+    "codigo": "M47",
+    "descricao": "Produtos pré-fabricados de betão"
+  },
+  {
+    "codigo": "M48",
+    "descricao": "Produtos para ajardinamentos"
+  },
+  {
+    "codigo": "M49",
+    "descricao": "Geotêxteis"
+  },
+  {
+    "codigo": "M50",
+    "descricao": "Tubos e Acessórios de Ferro Fundido e Aço"
+  },
+  {
+    "codigo": "M51",
+    "descricao": "Tintas para Construções Metálicas"
+  },
+  {
+    "codigo": "M52",
+    "descricao": "Redes e equipamentos de média e alta tensão"
+  },
+  {
+    "codigo": "M53",
+    "descricao": "Tubagem e acessórios para redes prediais de distribuição de água"
+  },
+  {
+    "codigo": "M54",
+    "descricao": "Produtos com base em ligantes minerais pré-doseados para  revestimentos"
+  },
+  {
+    "codigo": "M55",
+    "descricao": "Chapas e painéis para revestimento de coberturas"
+  },
+  {
+    "codigo": "M56",
+    "descricao": "Sistemas compósitos de isolamento térmico pelo exterior (ETIC)"
+  },
+  {
+    "codigo": "M57",
+    "descricao": "Isolamentos térmicos e acústicos"
+  },
+  {
+    "codigo": "M58",
+    "descricao": "Janelas e portas de alumínio e PVC"
+  },
+  {
+    "codigo": "M59",
+    "descricao": "Tubagens de abastecimento de água em \"alta\" (1)"
+  },
+  {
+    "codigo": "M60",
+    "descricao": "Janelas e portas de PVC"
+  }
+]
